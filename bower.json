@@ -1,0 +1,18 @@
+{
+  "name": "geodesy",
+  "version": "0.0.0",
+  "homepage": "https://github.com/marshnmedia/geodesy",
+  "authors": [
+    "Chris Veness",
+    "Michael Marsh <mike@marshnmedia.com>"
+  ],
+  "description": "Libraries of geodesy functions",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
